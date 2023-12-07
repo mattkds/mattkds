@@ -1,4 +1,7 @@
-### Hi there 👋
+<div style="background-color: #8a2be2; padding: 20px; text-align: center;">
+    Hi ! 👋 I'm mattkds, a full-time full-stack developer 👨‍💻 working since 2019 🚀  
+    <!-- Ajoutez d'autres informations personnalisées ici -->
+</div>
 
 <!--
 **mattkds/mattkds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
