@@ -4,7 +4,6 @@
 
 ### About me
 
-- 🌱 I’m currently interested by Social and Green IT
 - 💻 I'm curious to experiment new stacks and framework
 - ☁️  I am developping web applications
 
