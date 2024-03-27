@@ -1,5 +1,5 @@
 <div style="background-color: #8a2be2; padding: 20px; text-align: center;">
-    <img src="assets/banner.png" alt="banner">
+    <img src="assets/banner-mattkds.png" alt="banner">
 </div>
 
 ### About me
