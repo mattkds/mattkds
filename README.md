@@ -1,6 +1,11 @@
 <div style="background-color: #8a2be2; padding: 20px; text-align: center;">
-    <img src="assets/banner-mattkds.png" alt="banner">
+  <picture>
+    <source srcset="assets/logo-dark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/logo-light.png" media="(prefers-color-scheme: light)">
+    <img src="assets/logo-light.png" alt="mattkds logo" style="height: 80px;">
+  </picture>
 </div>
+
 
 ### About me
 
@@ -22,6 +27,11 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+### 📝 Blog & Website
+
+- 📰 [Visit my blog](https://blog.mattkds.dev/tech) – Dev notes, tips & more  
+- 🌐 [Check out my website](https://mattkds.dev) – Portfolio, résumé, projects  
 
 ## Connect with me  
 <div align="center">
