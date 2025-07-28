@@ -1,8 +1,8 @@
 <div style="background-color: #8a2be2; padding: 20px; text-align: center;">
   <picture>
-    <source srcset="assets/logo-dark.png" media="(prefers-color-scheme: dark)">
-    <source srcset="assets/logo-light.png" media="(prefers-color-scheme: light)">
-    <img src="assets/logo-light.png" alt="mattkds logo" style="height: 80px;">
+    <source srcset="assets/logo-white.png" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/logo-dark.png" media="(prefers-color-scheme: light)">
+    <img src="assets/logo-white.png" alt="mattkds logo" style="height: 80px;">
   </picture>
 </div>
 
