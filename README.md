@@ -11,6 +11,7 @@
 
 - 💻 I'm curious to experiment new stacks and framework
 - ☁️  I am developping web applications
+- 🌱 I’m currently learning GreenIt
 
 ### Tech Stack that I've already met
 
@@ -30,7 +31,7 @@
 
 ### 📝 Blog & Website
 
-- 📰 [Visit my blog](https://blog.mattkds.dev/tech) – Dev notes, tips & more  
+- 📰 [Visit my blog](https://mattkds.dev/blog) – Dev notes, tips & more  
 - 🌐 [Check out my website](https://mattkds.dev) – Portfolio, résumé, projects  
 
 ## Connect with me  
