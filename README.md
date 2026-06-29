@@ -4,7 +4,7 @@
 Full-stack engineer based in France, 6 years in the field.
 I work across the stack — from API design to frontend — and I genuinely enjoy both sides.
  
-Currently at Atos, working on projects for the French government.
+Currently at @Atos.
 Previously built things for Decathlon, Adeo, and a few insurance companies.
  
 Lately I've been going deeper into software architecture and development best practices —
